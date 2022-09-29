@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    line-height: 1.4;
+}
+.site{
+    margin: 0em;
+}
+
+.masterhead,
+.page-title,
+.main-content,
+.sidebar,
+.footer-content{
+    padding: 0em;
+    color: rgb(36, 30, 30);
+}
+.masterhead{
+    background-color: #ffffff;
+}
+.page-title{
+    background-color: #FF5C5B;
+}
+.main-content{
+    background-color: #ffffff;
+}
+.sidebar{
+    background-color: #FFBD42;
+}
+.footer-content{
+    background-color: rgb(255, 255, 255);
+}
